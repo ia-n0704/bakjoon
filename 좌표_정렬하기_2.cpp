@@ -1,0 +1,2 @@
+#include<bits/stdc++.h>
+using namespace std;pair<int,int> a[1<<20];int n,i,j;int main(){cin>>n,i=n-1;while(i--)cin>>a[i].second>>a[i].first;sort(a,a+n);for(;j<n;j++)cout<<a[j].second<<" "<<a[j].first<<'\n';}

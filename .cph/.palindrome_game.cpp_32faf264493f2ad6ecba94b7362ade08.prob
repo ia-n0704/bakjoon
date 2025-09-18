@@ -1,0 +1,1 @@
+{"name":"Local: palindrome_game","url":"d:\\vscode\\bakjoon\\palindrome_game.cpp","tests":[{"id":1708421116914,"input":"3\n8\n10\n12","output":"B\nE\nB"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vscode\\bakjoon\\palindrome_game.cpp","group":"local","local":true}

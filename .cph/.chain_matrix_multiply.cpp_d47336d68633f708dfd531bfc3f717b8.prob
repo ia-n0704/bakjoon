@@ -1,0 +1,1 @@
+{"name":"Local: chain_matrix_multiply","url":"d:\\vscode\\bakjoon\\chain_matrix_multiply.cpp","tests":[{"id":1736390463362,"input":"3\n5 3\n3 2\n2 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vscode\\bakjoon\\chain_matrix_multiply.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: asdf","url":"d:\\vscode\\bakjoon\\asdf.cpp","tests":[{"id":1718532091614,"input":"5\n3 1\n2 0 3\n2 3\n0 10\n5 3\n5 4 3 2 1\n4 5\n3 10 7 1\n6 0\n2 2 2 3 3 3","output":"0 1 2\n1 0\n0 1 2 3 4\n1 0 2 3\n1 1 2 0 4 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vscode\\bakjoon\\asdf.cpp","group":"local","local":true}

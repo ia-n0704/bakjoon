@@ -1,0 +1,1 @@
+{"name":"Local: write_name","url":"d:\\vscode\\bakjoon\\write_name.cpp","tests":[{"id":1740494079782,"input":"8 4\n...S\n..T.\n.##.\n..#.\n#.#.\n...#\n....\n.J##","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vscode\\bakjoon\\write_name.cpp","group":"local","local":true}

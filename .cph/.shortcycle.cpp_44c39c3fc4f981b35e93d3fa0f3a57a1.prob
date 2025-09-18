@@ -1,0 +1,1 @@
+{"name":"Local: shortcycle","url":"d:\\vscode\\bakjoon\\shortcycle.cpp","tests":[{"id":1723527360163,"input":"5 6\n1 2\n2 3\n3 4\n4 5\n5 1\n1 3","output":""},{"id":1723548203954,"input":"5 6\n1 2\n1 3\n1 4\n2 5\n3 5\n4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vscode\\bakjoon\\shortcycle.cpp","group":"local","local":true}

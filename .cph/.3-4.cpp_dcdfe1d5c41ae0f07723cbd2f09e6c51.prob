@@ -1,0 +1,1 @@
+{"name":"Local: 3-4","url":"d:\\vscode\\bakjoon\\3-4.cpp","tests":[{"id":1736403054816,"input":"5\n8 3\n7 -7\n8 1\n-2 1\n6 -5\n","output":"11"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vscode\\bakjoon\\3-4.cpp","group":"local","local":true}

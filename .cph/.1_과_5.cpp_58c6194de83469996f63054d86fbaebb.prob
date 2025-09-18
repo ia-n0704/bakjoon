@@ -1,0 +1,1 @@
+{"name":"Local: 1_과_5","url":"d:\\vscode\\bakjoon\\1_과_5.cpp","tests":[{"id":1742102628448,"input":"3\n5151\n5551\n111511","output":""},{"id":1742102696355,"input":"1\n11111","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vscode\\bakjoon\\1_과_5.cpp","group":"local","local":true}

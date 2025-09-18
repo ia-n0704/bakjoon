@@ -1,0 +1,1 @@
+{"name":"Local: vector","url":"d:\\vscode\\bakjoon\\vector.cpp","tests":[{"id":1723524205211,"input":"3 4\n0\n0 1\n1 2\n1 0\n1 2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vscode\\bakjoon\\vector.cpp","group":"local","local":true}

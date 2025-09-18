@@ -1,0 +1,1 @@
+{"name":"Local: timetable_wa_last","url":"d:\\vscode\\bakjoon\\timetable_wa_last.cpp","tests":[{"id":1739853397062,"input":"7 6 3 2\n2 4 3 6 5 1 6\n2 3 4\n1 5\n","output":""},{"id":1739853407045,"input":"3 3 1 1\n1 1 1\n1\n2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vscode\\bakjoon\\timetable_wa_last.cpp","group":"local","local":true}

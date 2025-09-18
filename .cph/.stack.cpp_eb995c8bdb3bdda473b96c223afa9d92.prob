@@ -1,0 +1,1 @@
+{"name":"Local: stack","url":"d:\\vscode\\bakjoon\\stack.cpp","tests":[{"id":1723090145589,"input":"10\nPUSH 1\nTOP\nPOP\nPOP\nTOP\nPUSH 2\nPUSH 5\nPUSH 4\nPOP\nPUSH 6\n","output":""},{"id":1723090334300,"input":"1\nPOP","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vscode\\bakjoon\\stack.cpp","group":"local","local":true}

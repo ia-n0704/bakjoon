@@ -1,0 +1,1 @@
+{"name":"Local: studyroom_query","url":"d:\\vscode\\bakjoon\\studyroom_query.cpp","tests":[{"id":1740464971229,"input":"10 3 2\n2 120\n7 200\n9 300\n5\n8","output":"120\n300"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vscode\\bakjoon\\studyroom_query.cpp","group":"local","local":true}

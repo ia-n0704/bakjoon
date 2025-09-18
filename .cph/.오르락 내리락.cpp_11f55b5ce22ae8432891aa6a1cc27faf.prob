@@ -1,0 +1,1 @@
+{"name":"Local: 오르락 내리락","url":"d:\\vscode\\bakjoon\\오르락 내리락.cpp","tests":[{"id":1723126677352,"input":"10\n10 2 9 3 8 4 7 5 6 1\n","output":""},{"id":1723127527981,"input":"3\n1 2 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vscode\\bakjoon\\오르락 내리락.cpp","group":"local","local":true}

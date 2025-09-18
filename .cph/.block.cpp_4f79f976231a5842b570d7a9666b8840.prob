@@ -1,0 +1,1 @@
+{"name":"Local: block","url":"d:\\vscode\\bakjoon\\block.cpp","tests":[{"id":1731669611187,"input":"3\n1 3 1\n1 2 0\n1000000000 1000000000 0","output":""},{"id":1731669886391,"input":"1\n0 1 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vscode\\bakjoon\\block.cpp","group":"local","local":true}

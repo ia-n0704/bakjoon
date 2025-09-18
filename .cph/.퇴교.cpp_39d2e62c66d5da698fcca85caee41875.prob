@@ -1,0 +1,1 @@
+{"name":"Local: 퇴교","url":"d:\\vscode\\bakjoon\\퇴교.cpp","tests":[{"id":1723701160880,"input":"2 1\n43 100\n17 50","output":""},{"id":1723701250157,"input":"1 0\n2 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vscode\\bakjoon\\퇴교.cpp","group":"local","local":true}

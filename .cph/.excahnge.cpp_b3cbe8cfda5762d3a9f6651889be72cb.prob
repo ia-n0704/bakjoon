@@ -1,0 +1,1 @@
+{"name":"Local: excahnge","url":"d:\\vscode\\bakjoon\\excahnge.cpp","tests":[{"id":1723720173689,"input":"7\n6 7 5 2 1 4 3\n7 6 5 2 3 1 4\n7 6 2 1 4 3 5\n1 7 6 5 2 4 3\n7 6 5 2 1 4 3\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vscode\\bakjoon\\excahnge.cpp","group":"local","local":true}

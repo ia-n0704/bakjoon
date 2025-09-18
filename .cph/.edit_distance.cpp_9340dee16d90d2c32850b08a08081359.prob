@@ -1,0 +1,1 @@
+{"name":"Local: edit_distance","url":"d:\\vscode\\bakjoon\\edit_distance.cpp","tests":[{"id":1736385691858,"input":"sunny\nsnowy","output":""},{"id":1736386085184,"input":"EXPONENTIAL\nPOLYNOMIAL","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vscode\\bakjoon\\edit_distance.cpp","group":"local","local":true}
